@@ -1,0 +1,38 @@
+
+
+.changing-divs {
+    border:#000 1px solid;
+    width:100%;
+    height:300px;
+    background-color: inherit;
+}
+
+.big-boy {
+  height:500px;
+}
+
+.small-boy {
+  height:150px;
+}
+
+.margin-top-20 {
+    margin-top:20px;
+}
+/*.animation {
+
+  -ms-transform: rotate(7deg); /* IE 9 */
+    -webkit-transform: rotate(7deg); /* Chrome, Safari, Opera */
+    transform: rotate(7deg);*/
+
+    /*transform: rotate(270deg);
+    -webkit-transform: rotate(270deg);
+    width: 50px;
+    height: 50px;
+    background-color: blue;*/
+    /*-webkit-transition-property: width height background-color font-size left top transform -webkit-transform color;
+    -webkit-transition-duration: 0.5s;
+    -webkit-transition-timing-function: ease-in-out;
+    transition-property: width height background-color font-size left top transform -webkit-transformv color;
+    transition-duration: 0.5s;
+    transition-timing-function: ease-in-out;*/
+}
